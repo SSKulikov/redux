@@ -1,0 +1,8 @@
+.notesList {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .notesList > div:last-of-type {
+    margin-left: auto;
+  }
